@@ -57,6 +57,8 @@ print (quick_sort(DATA))
 print (quick_sort(DATA))
 print (quick_sort(DATA))
 print (quick_sort(DATA))
+print (quick_sort(DATA))
+print (quick_sort(DATA))
 #github
 #print(f"{DATA} → {quick_sort(DATA)}")
     
