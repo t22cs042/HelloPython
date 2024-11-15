@@ -52,7 +52,7 @@ def quick_sort(data):
 
 DATA = [6, 15, 4, 2, 8, 5,11, 9, 7, 13 ]
 print (quick_sort(DATA))
-print (quick_sort(DATA))
+
 
 #github
 #print(f"{DATA} → {quick_sort(DATA)}")
